@@ -8,4 +8,7 @@
 
 (4) ./rnn_train.py
 
-(5) ./dump_rnn.py weights.hdf5 ../src/rnn_data.c ../src/rnn_data.h
+(5) python3 dump_rnn.py weights.hdf5 ../src/rnn_data.c ../src/rnn_data.h orig
+
+
+Notice：I have modified the (5) for use.
